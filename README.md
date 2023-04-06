@@ -1,2 +1,2 @@
 # sdktest
-Sample app
+Sample app:
